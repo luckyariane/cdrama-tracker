@@ -1,0 +1,4 @@
+__pycache__/
+*.py[cod]
+cdrama_tracker.sqlite3*
+posters/
